@@ -1,0 +1,2 @@
+Error boundaries and componentDidCatch 
+(https://reactjs.org/docs/error-boundaries.html#:~:text=Error%20boundaries%20are%20React%20components,the%20whole%20tree%20below%20them.)
